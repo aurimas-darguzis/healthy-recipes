@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/558f3d87-4c00-4ec7-93b2-3036f9466c03/deploy-status)](https://app.netlify.com/sites/silly-hamilton-7ba03c/deploys)
+
 ## Demo
 https://silly-hamilton-7ba03c.netlify.com
 
